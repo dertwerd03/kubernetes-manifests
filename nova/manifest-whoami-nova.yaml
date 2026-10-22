@@ -42,7 +42,7 @@ metadata:
     kubernetes.io/ingress.class: nginx
 spec:
   rules:
-  - host: whoami.nano.fortis.lab
+  - host: whoami.nova.fortis.lab
     http:
       paths:
       - path: /
